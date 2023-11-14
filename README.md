@@ -38,7 +38,7 @@ This project is a web application designed to mimic the user interface and basic
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/gaurav1832/Netflix.git
 
 2. install packages
    ```bash
