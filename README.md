@@ -2,6 +2,9 @@
 
 This is a Netflix clone project aimed at replicating the functionality and design of the popular streaming service Netflix.
 
+![Uploading Screenshot 2023-11-14 at 23.33.08.png…]()
+
+
 ## Table of Contents
 
 - [Description](#description)
