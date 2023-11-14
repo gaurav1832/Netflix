@@ -2,8 +2,8 @@
 
 This is a Netflix clone project aimed at replicating the functionality and design of the popular streaming service Netflix.
 
-![Uploading Screenshot 2023-11-14 at 23.33.08.png…]()
-
+ 
+<img width="1680" alt="Screenshot 2023-11-14 at 23 33 08" src="https://github.com/gaurav1832/Netflix/assets/78600377/e11cc3d2-77ec-43c1-8164-58390018176a">
 
 ## Table of Contents
 
